@@ -1,0 +1,11 @@
+FLASK_APP='manage.py'
+FLASK_ENV=development
+SECRET_KEY=''
+DB_HOST='localhost'
+DB_USERNAME=''
+DB_PASSWORD=''
+DATABASE_NAME='flogger'
+MYSQL_ROOT_PASSWORD=''
+BLOG_NAME='The Flogger Blog'
+BLOG_POST_IMAGES_PATH=''
+
