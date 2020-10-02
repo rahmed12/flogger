@@ -14,5 +14,5 @@ DB_PASSWORD=''  <--- your password for the db \
 \
 BLOG_POST_IMAGES_PATH=''  <--- the static path you want to store assets like images, videos, etc... For example for me \
                                I set it to: /home/user/mlprojects/flogger/static/images/uploads \
-                               Then I created the dir /home/user/mlprojects/flogger/static/images/uploads \
+                               Then I created the dir /home/user/mlprojects/flogger/static/images/uploads 
                                
